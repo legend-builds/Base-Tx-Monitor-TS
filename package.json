@@ -1,0 +1,17 @@
+{
+  "name": "base-tx-monitor-ts",
+  "version": "1.0.0",
+  "description": "A lightweight TypeScript tool to monitor real-time transactions on Base Network.",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "@types/node": "^20.0.0"
+  },
+  "dependencies": {
+    "ethers": "^6.10.0"
+  }
+}
