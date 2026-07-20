@@ -3,7 +3,7 @@
 A lightweight, real-time transaction monitoring tool developed in TypeScript to track block generation and transaction flow on the Base Network using RPC nodes.
 
 ## 🛠️ Features
-- **Real-time Monitoring:** Establishes a listener on the Base Mainnet RPC to capture every new block instantly.
+- **Real-time Monitoring:** Establishes a listener on the Base Mainnet RPC to capture every new block instantly..
 - **Transaction Insights:** Extracts and displays active transaction hashes from each block for on-chain analysis.
 - **Type-Safe Architecture:** Built fully with TypeScript and compiled with strict standards.
 
